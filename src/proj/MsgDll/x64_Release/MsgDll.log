@@ -1,0 +1,6 @@
+﻿  StdAfx.cpp
+  MsgDll.cpp
+.\MsgDll.def(2): warning LNK4017: DESCRIPTION 语句不支持目标平台；已忽略
+    正在创建库 .\Release\MsgDll.lib 和对象 .\Release\MsgDll.exp
+MsgDll.exp : warning LNK4070: .EXP 中的 /OUT:MsgDll.dll 指令与输出文件名“.\x64_Release\MsgDll64.dll”不同；忽略指令
+  MsgDll.vcxproj -> D:\vsWork\MsgDll\.\x64_Release\MsgDll64.dll

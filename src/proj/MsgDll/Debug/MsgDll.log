@@ -1,0 +1,5 @@
+﻿  StdAfx.cpp
+  MsgDll.cpp
+.\MsgDll.def(2): warning LNK4017: DESCRIPTION 语句不支持目标平台；已忽略
+    正在创建库 .\Debug\MsgDll.lib 和对象 .\Debug\MsgDll.exp
+  MsgDll.vcxproj -> D:\gitWork\wxhook\src\proj\MsgDll\.\Debug\MsgDll.dll
