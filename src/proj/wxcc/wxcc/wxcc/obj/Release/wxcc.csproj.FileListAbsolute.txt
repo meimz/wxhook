@@ -1,0 +1,9 @@
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\bin\Release\wxcc.exe.config
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\bin\Release\wxcc.exe
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\bin\Release\wxcc.pdb
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\obj\Release\wxcc.Form1.resources
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\obj\Release\wxcc.Properties.Resources.resources
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\obj\Release\wxcc.csproj.GenerateResource.cache
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\obj\Release\wxcc.csproj.CoreCompileInputs.cache
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\obj\Release\wxcc.exe
+D:\vsWork\mengxin\wxcc\wxcc\wxcc\obj\Release\wxcc.pdb

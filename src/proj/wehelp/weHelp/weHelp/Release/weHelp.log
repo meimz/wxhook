@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+d:\vswork\mengxin\wehelp\wehelp\wehelp\dllmain.cpp(152): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+d:\vswork\mengxin\wehelp\wehelp\wehelp\dllmain.cpp(152): warning C4477: “sprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“PVOID”
+  weHelp.cpp
+  正在生成代码
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  weHelp.vcxproj -> D:\vsWork\mengxin\wehelp\weHelp\Release\weHelp.dll
