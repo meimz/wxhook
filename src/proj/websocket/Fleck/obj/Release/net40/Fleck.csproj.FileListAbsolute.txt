@@ -1,0 +1,7 @@
+D:\vsWork\mengxin\Fleck\src\Fleck\bin\Release\net40\Fleck.dll
+D:\vsWork\mengxin\Fleck\src\Fleck\bin\Release\net40\Fleck.pdb
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\net40\Fleck.csproj.CoreCompileInputs.cache
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\net40\Fleck.AssemblyInfoInputs.cache
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\net40\Fleck.AssemblyInfo.cs
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\net40\Fleck.dll
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\net40\Fleck.pdb

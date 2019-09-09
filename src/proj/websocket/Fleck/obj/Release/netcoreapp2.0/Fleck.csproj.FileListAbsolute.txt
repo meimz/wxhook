@@ -1,0 +1,9 @@
+D:\vsWork\mengxin\Fleck\src\Fleck\bin\Release\netcoreapp2.0\Fleck.deps.json
+D:\vsWork\mengxin\Fleck\src\Fleck\bin\Release\netcoreapp2.0\Fleck.dll
+D:\vsWork\mengxin\Fleck\src\Fleck\bin\Release\netcoreapp2.0\Fleck.pdb
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\netcoreapp2.0\Fleck.csprojAssemblyReference.cache
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\netcoreapp2.0\Fleck.csproj.CoreCompileInputs.cache
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\netcoreapp2.0\Fleck.AssemblyInfoInputs.cache
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\netcoreapp2.0\Fleck.AssemblyInfo.cs
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\netcoreapp2.0\Fleck.dll
+D:\vsWork\mengxin\Fleck\src\Fleck\obj\Release\netcoreapp2.0\Fleck.pdb
