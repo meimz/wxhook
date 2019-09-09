@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sendmsg", "sendmsg\sendmsg.vcxproj", "{32D74204-A701-4142-A3B1-B922A4C86ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Debug|x64.ActiveCfg = Debug|x64
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Debug|x64.Build.0 = Debug|x64
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Debug|x86.ActiveCfg = Debug|Win32
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Debug|x86.Build.0 = Debug|Win32
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Release|x64.ActiveCfg = Release|x64
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Release|x64.Build.0 = Release|x64
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Release|x86.ActiveCfg = Release|Win32
+		{32D74204-A701-4142-A3B1-B922A4C86ADF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE5B3AF-D03E-4C28-A878-7733EE89B1D8}
+	EndGlobalSection
+EndGlobal
