@@ -1,0 +1,9 @@
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\bin\Debug\wssocket2.exe.config
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\bin\Debug\wssocket2.exe
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\bin\Debug\wssocket2.pdb
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\bin\Debug\Fleck.dll
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\obj\Debug\wssocket2.csprojAssemblyReference.cache
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\obj\Debug\wssocket2.csproj.CoreCompileInputs.cache
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\obj\Debug\wssocket2.csproj.CopyComplete
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\obj\Debug\wssocket2.exe
+D:\vsWork\mengxin\wssocket\wssocket2\wssocket2\obj\Debug\wssocket2.pdb
